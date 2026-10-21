@@ -27,4 +27,4 @@ Every project is developed using AI-first workflows. Our team uses Claude, Curso
 
 ## Contact
 
-frenzel.tim1@gmail.com
+fenrix.ai.team@gmail.com
